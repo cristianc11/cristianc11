@@ -1,12 +1,29 @@
+#Cristian Muñeton
+
 ### Hi there 👋
 
-Hola, Mi nombre es Cristian Muñeton
+##About Me
 
-- 🌱 Me encuentro estudiando Java, JavaScript, Git
-- 👯 Soy estudiante actual del SENA y Programa MinTic 2022
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: cmirjs03@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* I´m from colombia, I life in the city of Bogotá and I´m 19 years old.
+* I´m currently learning Java, JavaScript, Git.
+* I´m currently student of SENA in the programm (ADSI) and in the programm of Ministry of TIC Colombia (Mintic 2022).
+* I love Sport, Soccer, Videogames and Tecnology.
+
+#Skills
+
+* Respectful
+* Responsable
+* Team Work
+* Honest
+* Productive
+* Committed
+
+##Programming languajes used
+
+* Python, C++, MySQL, HTML, CSS.
+* * IDE used: VS code, NetBeans 8.2
+
+#Contact
+
+* cmirjs03@gmail.com
 
