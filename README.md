@@ -2,11 +2,10 @@ Cristian Muñeton
 ================
 
 ### Hi there 👋
-***
+
 
 About Me
 ---------
-***
 
 * I´m from colombia, I life in the city of Bogotá and I´m 19 years old.
 * I´m currently learning Java, JavaScript, Git.
@@ -15,7 +14,6 @@ About Me
 
 Skills
 -------
-***
 
 * Respectful
 * Responsable
@@ -26,7 +24,6 @@ Skills
 
 Programming languajes used
 ---------------------------
-***
 
 * Python, C++, MySQL, HTML, CSS.
 * * IDE used: VS code, NetBeans 8.2
