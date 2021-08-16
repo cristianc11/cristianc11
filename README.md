@@ -1,4 +1,4 @@
-Cristian Muñeton :boy:
+Cristian Muñeton :trident:
 ================
 
 ### Hi there 👋
@@ -16,10 +16,10 @@ Tittles :book:
 --------------
 
 * Secondary - 2018: School Secondary
-  Institute: *School P.A.E, Bogotá D.C*
+  * Institute: *School P.A.E, Bogotá D.C*
                   
 * Technical - 2019: Computer Maintenance andConnectivity.
-  Institute: *Inesco, Bogotá D.C*
+  * Institute: *Inesco, Bogotá D.C*
 
 Skills :paperclip:
 -------
