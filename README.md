@@ -7,38 +7,19 @@ Cristian Muñeton :trident:
 About Me :speech_balloon:
 ---------
 
-* I´m from colombia, I life in the city of Bogotá and I´m 20 years old.
-* I´m currently learning Java, JavaScript, Git.
-* I´m currently student of SENA in the programm (ADSI) and in the programm of Ministry of TIC Colombia (Mintic 2022).
-* I love Sport, Soccer, Videogames and Tecnology.
+*Hello! I’m Cristian, a technology enthusiast and dedicated professional from Bogotá, Colombia. I’ve already cultivated diverse experiences in software development, quality assurance, and Salesforce administration. My passion lies in building impactful solutions that solve real-world challenges and drive efficiency.
 
-Tittles :book:
---------------
-
-* Secondary - 2018: School Secondary
-  * Institute: *School P.A.E, Bogotá D.C*
-                  
-* Technical - 2019: Computer Maintenance andConnectivity.
-  * Institute: *Inesco, Bogotá D.C*
-
-Skills :paperclip:
--------
-
-* Respectful
-* Responsable
-* Team Work
-* Honest
-* Productive
-* Committed
-
-Programming languajes used :wrench:
+Programming languajes used and I´m learning :wrench:
 ---------------------------
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,mysql&perline=3)](https://skillicons.dev)
 
-* Python, C++, MySQL, HTML, CSS.
-* IDE used: VS code, NetBeans 8.2
-
-Contact :email:
+Contact 
 --------
-
-* cmirjs03@gmail.com
-
+<p align="center">
+  <a href="mailto:cmirjs03@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+ <a href="https://www.linkedin.com/in/cristian-muneton/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
