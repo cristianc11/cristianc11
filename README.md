@@ -1,4 +1,4 @@
-Cristian Muñeton :trident:
+Cristian Muñeton :full_moon_with_face:
 ================
 
 ### Hi there 👋
@@ -7,7 +7,7 @@ Cristian Muñeton :trident:
 About Me :speech_balloon:
 ---------
 
-*Hello! I’m Cristian, a technology enthusiast and dedicated professional from Bogotá, Colombia. I’ve already cultivated diverse experiences in software development, quality assurance, and Salesforce administration. My passion lies in building impactful solutions that solve real-world challenges and drive efficiency.
+Hello! I’m Cristian, a technology enthusiast and dedicated professional from Bogotá, Colombia. I’ve already cultivated diverse experiences in software development, quality assurance, and Salesforce administration. My passion lies in building impactful solutions that solve real-world challenges and drive efficiency.
 
 Programming languajes used and I´m learning :wrench:
 ---------------------------
@@ -15,7 +15,7 @@ Programming languajes used and I´m learning :wrench:
 
 Contact 
 --------
-<p align="center">
+<p>
   <a href="mailto:cmirjs03@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
