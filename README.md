@@ -11,7 +11,7 @@ Hello! I’m Cristian, a technology enthusiast and dedicated professional from B
 
 Programming languajes used and I´m learning :wrench:
 ---------------------------
-[My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,mysql&perline=3)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,mysql&perline=3)](https://github.com/cristianc11/cristianc11/blob/main/README.md)
 
 Contact 
 --------
