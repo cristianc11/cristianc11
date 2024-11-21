@@ -9,7 +9,7 @@ About Me :speech_balloon:
 
 Hello! I’m Cristian, a technology enthusiast and dedicated professional from Bogotá, Colombia. I’ve already cultivated diverse experiences in software development, quality assurance, and Salesforce administration. My passion lies in building impactful solutions that solve real-world challenges and drive efficiency.
 
-Programming languajes used and I´m learning :wrench:
+I´m learning :wrench:
 ---------------------------
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,mysql&perline=3)](https://github.com/cristianc11/cristianc11/blob/main/README.md)
 
